@@ -1,6 +1,6 @@
 # bahmni-db-restore
 Scripts to restore Bahmi DB
-<h>Copy all three files to /root on host.</h>
+Copy all three files to /root on host.
 == TO Automate Restore checking Schedule cron job using command.
 == edit "cron-restore" file to amend the time.
   crontab cron-restore
